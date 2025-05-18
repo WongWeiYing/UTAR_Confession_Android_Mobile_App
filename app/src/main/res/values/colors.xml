@@ -19,8 +19,8 @@
     <color name="light_grey">#FF737373</color>
     <color name="login_button">#FF7EDFD5</color>
     <color name="link_blue">#FF76B9F0</color>
-    <color name="light_lblue">#FF05E0E9</color>
-    <color name="dark_lblue">#FF05E0E9</color>
+    <color name="light_blue">#FF05E0E9</color>
+    <color name="dark_blue">#FF05E0E9</color>
     <color name="light_yellow">#FFFFF9C7</color>
     <color name="dark_yellow">#FFEE9600</color>
     <color name="light">#FF2E266D</color>

@@ -1,0 +1,93 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UTAR COMMUNITY</string>
+    <string name="open_nav">OPENNAV</string>
+    <string name="close_nav">CLOSENAV</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="SUPABASE_KEY" tools:ignore="Typos">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN2Zm5qdndpcnRrbHd1dGxyeWVxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTI1NTcxOTUsImV4cCI6MjAyODEzMzE5NX0.kapUf05gM8cop4mtu15xwb5K6X3vsXYd341Fjh0EFxM</string>
+
+    <string name="home_btn">Home</string>
+    <string name="search_btn">Search</string>
+    <string name="noti_btn">Notification</string>
+    <string name="profile_btn">Profile</string>
+    <string name="logout_btn">Log Out</string>
+    <string name="help_btn">Help &amp; Support</string>
+    <string name="review_btn">Leave a Review</string>
+    <string name="about_btn">About Us</string>
+    <string name="back_button">Back Button</string>
+    <string name="send_button">Send Button</string>
+    <string name="profile_img">UserProfile</string>
+    <string name="img_upload">Image Uploaded</string>
+    <string name="ano">Anonymously</string>
+    <string name="comment">Comment…</string>
+    <string name="float_button">Floating Button to create post</string>
+    <string name="create">Create Post</string>
+    <string name="post">Post</string>
+    <string name="ano_btn">Anonymous?</string>
+    <string name="non_ano">With current account</string>
+    <string name="share_content">Share something…</string>
+    <string name="camera">Take Photo</string>
+    <string name="photo">Photo Gallery</string>
+    <string name="hashtag">#HashTags:</string>
+    <string name="tag">#…</string>
+    <string name="clr_btn">Clear Button</string>
+    <string name="rules">Before you post, make sure your content does not violate the terms and conditions of UTAR Community. We reserve the right to amend or delete any offending posts.</string>
+    <string name="agree">I have read and agreed to the T&amp;C.</string>
+    <string name="comment_num">Comment Number</string>
+    <string name="like">Like Icon</string>
+    <string name="like_num">Like Number</string>
+    <string name="share_num">Share Number</string>
+    <string name="ques1">What is the rules and regulations before creating post?</string>
+    <string name="ans1">Certain content, including sexual, violent, or graphic material, is prohibited. Respectful behavior is expected, with no tolerance for harassment or bullying. Users must provide warnings for sensitive content. Illegal activities and intellectual property violations are strictly forbidden. Reporting violations is encouraged, and the moderation team will take action. All posts must comply with community guidelines and terms of service.</string>
+    <string name="ques2">If users violate the rules, what are the consequences?</string>
+    <string name="ans2">If users violate the rules, they may face consequences such as removal of their posts, warnings, or account suspension. Our team will review reported violations and take appropriate action to maintain a safe and respectful environment within the app. Repeat offenders may face stricter penalties, including permanent account suspension. It is important for all users to adhere to the rules to ensure a positive experience for everyone in the community.</string>
+    <string name="ques3">How do I reset my password?</string>
+    <string name="ans3">To reset your password, go to the login screen and select the \"Forgot Password\" option. Follow the prompts to enter your email address and receive instructions for resetting your password.</string>
+    <string name="ques4">What should I do if I encounter a technical issue or bug?</string>
+    <string name="ans4">If you encounter a technical issue or bug, please report it via email at [support@example.com]. Provide as much detail as possible about the issue, including steps to reproduce it and any error messages you may have received.</string>
+    <string name="ques5">How can I provide feedback or suggest new features?</string>
+    <string name="ans5">We welcome your feedback and suggestions! You can submit them through the app\'s feedback form or by emailing us at [feedback@example.com]. We appreciate your input as we strive to improve our app.</string>
+    <string name="ques6">How can I change my account settings or preferences?</string>
+    <string name="ans6">To change your account settings, navigate to the Profile section within the app. From there, you can update your profile information. From the switch button on the top right of navigation drawer can help you to change light mode into dark mode.</string>
+
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">********</string>
+    <string name="alrHasAcc">Already Have An Account ?</string>
+    <string name="login">Login</string>
+    <string name="forgotPassword">Forgot Password ?</string>
+    <string name="doNotHaveAcc">Do Not Have An account ?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="reset">Reset Password</string>
+    <string name="resetP">Reset</string>
+    <string name="name">Name</string>
+    <string name="bio">Bio</string>
+    <string name="gender">Gender</string>
+    <string name="gallery">Import photo from gallery</string>
+    <string name="remove">Remove current photo</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="secret">Prefer not to say</string>
+    <string name="purpose">This wont \'t be displayed to public</string>
+    <string name="navigate">Navigate to next page</string>
+    <string name="back">Exit to previous page</string>
+    <string name="close">Saves discard </string>
+    <string name="check">Saves changes</string>
+    <string name="nameDesc">Help people discover you by using the name you\'re known</string>
+    <string name="emailInput">Enter your email for password recovery</string>
+    <string name="submit">Submit</string>
+    <string name="done">Done</string>
+    <string name="a">Remember Password ?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bioDesc">Tell others about yourself</string>
+    <string name="test">Test</string>
+    <string name="myPost">My Posts</string>
+    <string name="likedPost">Liked Posts</string>
+    <string name="noLikedPost">No Liked Post Yet</string>
+    <string name="noPost">No Post Yet</string>
+    <string name="usernameDesc">NickName</string>
+
+
+</resources>

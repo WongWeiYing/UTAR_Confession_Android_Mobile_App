@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:fontFamily">@font/onely_sans</item>
+        <item name="android:background">?attr/colorPrimaryVariant</item>
+        <item name="android:textColorPrimary">?attr/colorOnPrimary</item>
+        <item name="android:text">@string/app_name</item>
+    </style>
+</resources>

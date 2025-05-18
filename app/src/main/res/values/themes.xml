@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UtarCommunity" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/light_cyan</item>
+        <item name="colorPrimaryVariant">@color/light_cyan</item>
+        <item name="colorOnPrimary">@color/light_dblue</item>
+
+        <item name="android:statusBarColor">@color/dark_cyan</item>
+        <item name="android:navigationBarColor">@color/dark_cyan</item>
+        <item name="android:textColor">@color/black_word</item>
+        <item name="android:fontFamily">@font/poe_sans_new</item>
+
+    </style>
+
+    <style name="ScreenBackground"><item name="android:background">@color/white</item></style>
+    <style name="PostBackground"><item name="android:background">@color/light_post</item></style>
+    <style name="IBBackground"><item name="android:backgroundTint">@color/light_post</item></style>
+    <style name="NavBackground"><item name="android:background">@color/light_post</item></style>
+    <style name="Title"><item name="android:textColor">@color/light_dblue</item></style>
+    <style name="bottomsheet"><item name="android:textColorPrimary">@color/light_dblue</item></style>
+    <style name="cv_style"><item name="cardBackgroundColor">@color/light_post</item></style>
+    <style name="aboutcv_style"><item name="cardBackgroundColor">@color/light_cyan</item></style>
+    <style name="iv_style"><item name="tint">@color/black</item></style>
+    <style name="rules_style"><item name="cardBackgroundColor">@color/light_yellow</item></style>
+    <style name="TextColor"><item name="android:textColor">@color/black_word</item></style>
+    <style name="non_ano"><item name="android:src">@drawable/non_anonymous</item></style>
+    <style name="ano"><item name="android:src">@drawable/anonymous</item></style>
+    <style name="send_icon"><item name="android:src">@drawable/baseline_send_24</item></style>
+
+    <style name="CustomDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Background color of the dialog -->
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/light_dblue</item>
+        <item name="colorControlActivated">@color/light_dblue</item>
+    </style>
+
+
+    <style name="Theme.UtarCommunity" parent="Base.Theme.UtarCommunity" />
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+
+</resources>

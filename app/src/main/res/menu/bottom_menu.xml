@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home_btn"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:id="@+id/search"
+        android:title="@string/search_btn"
+        android:icon="@drawable/search"/>
+
+    <item
+        android:title=""/>
+
+    <item
+        android:id="@+id/notifications"
+        android:title="@string/noti_btn"
+        android:icon="@drawable/noti" />
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile_btn"
+        android:icon="@drawable/profile"/>
+
+</menu>
+

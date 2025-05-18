@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AboutFragment">
+
+    <ImageButton
+        android:id="@+id/bt_BackHome"
+        style="@style/iv_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="70dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/back_button"
+        android:src="@drawable/baseline_arrow_back_24"
+        tools:ignore="TouchTargetSizeCheck,RedundantDescriptionCheck" />
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/aboutcv_style"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        app:cardCornerRadius="50dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="About Us"
+                style="@style/TextColor"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:textSize="30sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="30dp"
+                android:text="Welcome to UTARCommunity, the central hub for all things UTAR-related! Our platform is designed to bring together students, faculty, and staff, fostering connections, facilitating communication, and enriching your university experience. Whether you're a freshman eager to navigate campus life or a seasoned academic seeking collaboration, UTARCommunity is your one-stop destination for building a vibrant, inclusive, and supportive community. JOIN US!"
+                android:gravity="center"
+                style="@style/TextColor"
+                android:textSize="18sp"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</FrameLayout>
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:id="@+id/comment_image"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        style="@style/iv_style"
+        android:src="@drawable/baseline_account_circle_24"
+        android:contentDescription="@string/profile_img" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginEnd="10dp"
+        android:id="@+id/relLayout1"
+        android:layout_marginTop="15dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Username"
+                android:id="@+id/comment_username"
+                android:layout_marginStart="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1 hour ago"
+                android:textSize="14sp"
+                android:id="@+id/comment_time"
+                android:layout_marginStart="10dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:text="this is a comment"
+                android:layout_marginStart="5dp"
+                android:textSize="18sp"
+                android:id="@+id/comment"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

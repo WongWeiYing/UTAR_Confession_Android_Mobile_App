@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+tools:showIn = "navigation_view">
+
+<group
+    android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="@string/logout_btn"/>
+
+
+</group>
+<item
+    android:title="">
+
+    <menu>
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/baseline_help_outline_24"
+            android:title="@string/help_btn"/>
+
+        <item
+            android:id="@+id/nav_review"
+            android:icon="@drawable/baseline_rate_review_24"
+            android:title="@string/review_btn"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/baseline_info_outline_24"
+            android:title="@string/about_btn"/>
+    </menu>
+
+</item>
+
+</menu>

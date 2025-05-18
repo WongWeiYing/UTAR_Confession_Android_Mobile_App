@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "475340225955",
+    "firebase_url": "https://utar-community-df489-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "utar-community-df489",
+    "storage_bucket": "utar-community-df489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475340225955:android:41a658dab24d6f0d872e16",
+        "android_client_info": {
+          "package_name": "my.edu.utar.utarcommunity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmelBmzQY910KQoEH2Vo9QVThTNfDm_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

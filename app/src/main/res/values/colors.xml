@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkBlue">#121785</color>
+    <color name="hintFont">#FFC1C0C0</color>
+    <color name="lightGray">#a9a9a9</color>
+    <color name="davyGray">#555555</color>
+    <color name="trolleyGray">#808080</color>
+    <color name="red">#D32121</color>
+    <color name="black_word">#FF000000</color>
+    <color name="white_word">#FFD9D9D9</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="light_cyan">#FFE5F6F4</color>
+    <color name="dark_cyan">#FF112752</color>
+    <color name="light_dblue">#FF112752</color>
+    <color name="dark_dblue">#FFBBE9E4</color>
+    <color name="light_post">#FFDFE8F8</color>
+    <color name="dark_post">#FF1A1A1A</color>
+    <color name="light_grey">#FF737373</color>
+    <color name="login_button">#FF7EDFD5</color>
+    <color name="link_blue">#FF76B9F0</color>
+    <color name="light_lblue">#FF05E0E9</color>
+    <color name="dark_lblue">#FF05E0E9</color>
+    <color name="light_yellow">#FFFFF9C7</color>
+    <color name="dark_yellow">#FFEE9600</color>
+    <color name="light">#FF2E266D</color>
+    <color name="dark">#FF424242</color>
+    <color name="linkBlue">#00008b</color>
+</resources>
